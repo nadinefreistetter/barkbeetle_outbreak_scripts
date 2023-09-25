@@ -1,0 +1,19 @@
+name: bbeet
+channels:
+  - conda-forge
+dependencies:
+  - mamba
+  - ipykernel
+  - jupyter
+  - notebook
+  - openpyxl
+  - regex
+  - numpy
+  - pandas
+  - gdal
+  - xarray
+  - rioxarray
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
